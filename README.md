@@ -1,5 +1,4 @@
 ## Hey 👋, This is Eduardo Brito
-[![Gmail Badge](https://img.shields.io/badge/-eabbrito1996@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eabbrito1996@gmail.com)](mailto:eabbrito1996@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-eduardobrito7-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardobrito7/)](https://www.linkedin.com/in/eduardobrito7/) [![Github Badge](https://img.shields.io/badge/-edabrito7-grey?style=flat&logo=github&logoColor=white&link=https://github.com/edabrito7/)](https://www.github.com/edabrito7/) [![Twitter Badge](https://img.shields.io/badge/-edabrito7-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/edabrito7/)](https://www.twitter.com/edabrito7/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://edabrito7-portfolio.netlify.app/)](https://edabrito7-portfolio.netlify.app/) <p align='left'>I'm an Electronic Engineer and Frontend Developer currently working on improve my skills with React and Javascript</p>
  ## :muscle: Some of my skills are:
 <ul>
